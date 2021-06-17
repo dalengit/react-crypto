@@ -1,5 +1,4 @@
 {
-  "homepage": "https://dalenchan.tech/react-crypto/",
   "name": "react-crypto-tracker",
   "version": "0.1.0",
   "private": true,
@@ -15,10 +14,9 @@
   },
   "scripts": {
     "start": "react-scripts start",
+
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
