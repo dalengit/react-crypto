@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-crypto/static/css/main.7056e174.chunk.css",
+    "main.css": "/react-crypto/static/css/main.71bf90af.chunk.css",
     "main.js": "/react-crypto/static/js/main.02d0c2a0.chunk.js",
     "main.js.map": "/react-crypto/static/js/main.02d0c2a0.chunk.js.map",
     "runtime-main.js": "/react-crypto/static/js/runtime-main.fc16e8b3.js",
@@ -8,13 +8,13 @@
     "static/js/2.eb88c934.chunk.js": "/react-crypto/static/js/2.eb88c934.chunk.js",
     "static/js/2.eb88c934.chunk.js.map": "/react-crypto/static/js/2.eb88c934.chunk.js.map",
     "index.html": "/react-crypto/index.html",
-    "static/css/main.7056e174.chunk.css.map": "/react-crypto/static/css/main.7056e174.chunk.css.map",
+    "static/css/main.71bf90af.chunk.css.map": "/react-crypto/static/css/main.71bf90af.chunk.css.map",
     "static/js/2.eb88c934.chunk.js.LICENSE.txt": "/react-crypto/static/js/2.eb88c934.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fc16e8b3.js",
     "static/js/2.eb88c934.chunk.js",
-    "static/css/main.7056e174.chunk.css",
+    "static/css/main.71bf90af.chunk.css",
     "static/js/main.02d0c2a0.chunk.js"
   ]
 }
