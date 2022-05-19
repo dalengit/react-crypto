@@ -11,4 +11,4 @@ Hooks used:
 - useState
 - useEffect 
 
-Website Live: https://dalenchan.tech/react-crypto/
+Website Live: https://dalengit.github.io/react-crypto/
